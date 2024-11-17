@@ -1,4 +1,4 @@
-# File Type Sorter (/filetype)
+# File Type Sorter 
 
 This Python script organizes files in a specified directory by moving them into subdirectories based on file type.
 
@@ -21,7 +21,7 @@ This Python script organizes files in a specified directory by moving them into 
 
 Errors are logged to `log.log` with timestamps.
 
-# Keyword Based Sorter (/keywords)
+# Keyword Based Sorter 
 
 This Python script organizes files in a specified directory by moving them into subdirectories based on file name patterns. It also supports copying and uncompressing both `.zip` and `.gz` files, depending on what is present in the source directory. The script is compatible with both Windows and Unix-based systems.
 
